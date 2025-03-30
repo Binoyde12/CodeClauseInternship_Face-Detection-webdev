@@ -56,9 +56,7 @@ The application uses Face-API.js models that include:
 - Developed as part of the CodeClause Internship.
 - Face recognition powered by [Face-API.js](https://github.com/justadudewhohacks/face-api.js).
 
-##⚡ Author: Binoy Krishna Debnath
-##📧 Contact: LinkedIn Profile
-##🔗 GitHub Profile: Binoyde12
+## ⚡Author: Binoy Krishna Debnath
 
 ## License
 This project is licensed under the MIT License.
